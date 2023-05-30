@@ -26,8 +26,15 @@ The result is that combinational logic circuits have no feedback, and any change
 
 ## Simplification:
 
+![WhatsApp Image 2023-05-30 at 2 42 50 PM](https://github.com/MIRUDHULA-DHANARAJ/ex.2/assets/94828147/1699afb0-dd3d-49ab-a591-6280f95b704c)
+
+![WhatsApp Image 2023-05-30 at 2 42 50 PM (1)](https://github.com/MIRUDHULA-DHANARAJ/ex.2/assets/94828147/4f6213ae-56aa-415d-a50c-3258210d5c69)
+
+
 
 ## Truth Table:
+
+C:\Users\hp\Downloads\WhatsApp Image 2023-05-30 at 2.42.51 PM (1).jpeg
 
 ## Program:
 ```
