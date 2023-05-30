@@ -47,7 +47,30 @@ The result is that combinational logic circuits have no feedback, and any change
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Program:
+
+
 ```
 Developed By: Mirudhula D
 Register No.: 212221230060
