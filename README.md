@@ -1,5 +1,5 @@
-### Ex. No. : 2 
-### Date: 31.3.23 
+## Ex. No. : 2 
+## Date: 31.3.23 
 # Implementation of Combinational logic circuit using Verilog HDL
 ## Aim:
 To implement the following Boolean functions using Verilog HDL and to verify the truth table.
@@ -40,6 +40,7 @@ The result is that combinational logic circuits have no feedback, and any change
 ![WhatsApp Image 2023-05-30 at 2 42 50 PM (3)](https://github.com/MIRUDHULA-DHANARAJ/ex.2/assets/94828147/1a2d1e35-0b87-445b-a5bc-a210bb13e38d)
 
 
+![Uploading WhatsApp Image 2023-05-30 at 2.42.51 PM (5).jpeg…]()
 
 
 
@@ -74,13 +75,8 @@ endmodule
 
 ## Timing Diagram:
 
-## F1
 
 ![image](https://github.com/MIRUDHULA-DHANARAJ/ex.2/assets/94828147/0bd5683b-5d98-4398-a05f-01b8f4024503)
-
- ## F2:
- 
-WhatsApp Image 2023-05-30 at 2.42.51 PM (4).jpeg
 
 
 ## Result:
