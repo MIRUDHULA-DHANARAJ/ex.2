@@ -40,7 +40,7 @@ The result is that combinational logic circuits have no feedback, and any change
 ## F1:
 ![WhatsApp Image 2023-05-30 at 2 42 50 PM (3)](https://github.com/MIRUDHULA-DHANARAJ/ex.2/assets/94828147/1a2d1e35-0b87-445b-a5bc-a210bb13e38d)
 
-##F2:
+## F2:
 
 ![WhatsApp Image 2023-05-30 at 2 42 51 PM (5)](https://github.com/MIRUDHULA-DHANARAJ/ex.2/assets/94828147/14a9ba0a-1003-44e5-9272-fbb9fe0af60d)
 
